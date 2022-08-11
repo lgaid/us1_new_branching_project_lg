@@ -5,6 +5,6 @@ public class Payment {
 
     // payment updated
 
-    // payment completed
+    // completed payment class
 
 }
